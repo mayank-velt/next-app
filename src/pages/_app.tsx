@@ -3,6 +3,6 @@ import type { AppProps } from 'next/app'
 import { initSuperflow } from '@usesuperflow/client'
 
 export default function App({ Component, pageProps }: AppProps) {
-  initSuperflow('SoNazk1CobX8QnhENUBL', { projectId: '7406212340077586' });
+  initSuperflow('nfLcY0Nb3xXI35zmi5zh', { projectId: '5160527548617664' });
   return <Component {...pageProps} />
 }

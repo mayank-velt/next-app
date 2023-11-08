@@ -10,7 +10,7 @@ export default function Document() {
           id='superflowToolbarScript'
           data-sf-platform='manual'
           async
-          src='https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar/superflow.min.js?apiKey=nfLcY0Nb3xXI35zmi5zh&projectId=5160527548617664'
+          src='https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=nfLcY0Nb3xXI35zmi5zh&projectId=5160527548617664'
         ></script>
         <NextScript />
       </body>

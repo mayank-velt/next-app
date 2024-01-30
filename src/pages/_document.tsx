@@ -6,7 +6,8 @@ export default function Document() {
       <Head />
       <body>
         <Main />
-		<script id="superflowToolbarScript" data-sf-platform="manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=0fvCU3pi2vRwhU4G1hlr&projectId=7406212340077586"></script>
+		<script id="superflowToolbarScript" data-sf-platform="other-manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=IFtoDHZE4cSEHHzyJoBh&projectId=2758703195227631"></script>
+		{/* <script id="superflowToolbarScript" data-sf-platform="manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=0fvCU3pi2vRwhU4G1hlr&projectId=7406212340077586"></script> */}
 		{/* <script id="superflowToolbarScript" data-sf-platform="manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=yHSybPXZAwSQNeFTmrpO&projectId=8647246964845820"></script> */}
 		{/* <script id="superflowToolbarScript" data-sf-platform="webflow-manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=VjykxQXty9Vch92QCJD6&projectId=1087691151546343"></script> */}
 		{/* <script id="superflowToolbarScript" data-sf-platform="manual" async src="https://cdn.jsdelivr.net/npm/@usesuperflow/toolbar-staging/superflow.min.js?apiKey=0VyJFNST4yW9agXrkceF&projectId=8757445199272931"></script> */}
